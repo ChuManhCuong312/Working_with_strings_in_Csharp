@@ -1,0 +1,28 @@
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\bin\Debug\net8.0\Working_with_strings_in_Csharp.exe
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\bin\Debug\net8.0\Working_with_strings_in_Csharp.deps.json
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\bin\Debug\net8.0\Working_with_strings_in_Csharp.runtimeconfig.json
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\bin\Debug\net8.0\Working_with_strings_in_Csharp.dll
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\bin\Debug\net8.0\Working_with_strings_in_Csharp.pdb
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.AssemblyInfoInputs.cache
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.AssemblyInfo.cs
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.dll
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\refint\Working_with_strings_in_Csharp.dll
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.pdb
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.genruntimeconfig.cache
+C:\Users\toanc\source\repos\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\ref\Working_with_strings_in_Csharp.dll
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\bin\Debug\net8.0\Working_with_strings_in_Csharp.exe
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\bin\Debug\net8.0\Working_with_strings_in_Csharp.deps.json
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\bin\Debug\net8.0\Working_with_strings_in_Csharp.runtimeconfig.json
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\bin\Debug\net8.0\Working_with_strings_in_Csharp.dll
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\bin\Debug\net8.0\Working_with_strings_in_Csharp.pdb
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.dll
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\refint\Working_with_strings_in_Csharp.dll
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.pdb
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\Working_with_strings_in_Csharp.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\Working_with_strings_in_Csharp\Working_with_strings_in_Csharp\obj\Debug\net8.0\ref\Working_with_strings_in_Csharp.dll
